@@ -1,4 +1,4 @@
-# Create your own custom DevOps toolchain to go from your source code to a running application in a minutes.
+# Create your own custom DevOps toolchain to go from source code into running application in a minutes.
 
 Practive DevOps using **IBM Cloud Continous Delivery Service**, In this tutorial we will **Build** and **Deploy** cloud foundry applications to IBM Cloud using its DevOps service.
 
